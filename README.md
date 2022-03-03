@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santosh-kumar-d
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning various things
+- 🌱 I’m currently learning various things, python, machine learning, data science
 - 💞️ I’m looking to collaborate on open source project
 
 <!---
